@@ -1,0 +1,19 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "window.zoomLevel": 2,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.tabCompletion": "onlySnippets",
+  "markdownlint.config": {
+    "MD033" : false
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+  },
+}
